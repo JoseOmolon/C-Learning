@@ -9,5 +9,5 @@
 * **System Programming** - Operation systems, Embedded Systems & Performance-Critical applications.
 * **Community & Resources - C have extensive global Community.
 
-## Setting up Environment
+## Setting up the Environment
 
