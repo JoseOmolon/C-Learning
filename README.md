@@ -3,5 +3,5 @@
 
 
 ## Why C is Important?
-
+* **Portability** - Can run w/ multiple Platforms.
 
