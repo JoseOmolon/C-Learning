@@ -11,4 +11,4 @@
 
 ## Setting up the Environment
 * 1 . **Choosing a Text or IDE**
-    * Text Editors: Notepad++
+    * Text Editors: Notepad++, Sublime, VS Code
