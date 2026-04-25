@@ -12,3 +12,4 @@
 ## Setting up the Environment
 * 1 . **Choosing a Text or IDE**
     * Text Editors: Notepad++, Sublime, VS Code
+    * IDE: (Integrated Development Environment): Code: Blocks, Dev-C++, Eclipse CDT
