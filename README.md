@@ -7,7 +7,7 @@
 * **Efficiency**  - Low-level close to hardware.
 * **Foundation for modern Language** - C++, Java, Python etc... you can bridge to these Langauges rather easily.
 * **System Programming** - Operation systems, Embedded Systems & Performance-Critical applications.
-* **Community & Resources - C have extensive global Community.
+* **Community & Resources** - C have extensive global Community.
 
 ## Setting up the Environment
 
