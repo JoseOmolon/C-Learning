@@ -10,4 +10,4 @@
 * **Community & Resources** - C have extensive global Community.
 
 ## Setting up the Environment
-*1. **Choosing a Text or IDE**
+* 1. **Choosing a Text or IDE**
