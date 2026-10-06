@@ -286,7 +286,7 @@ I'm documenting my journey into embedded systems. If you're learning C for embed
 
 ---
 
-## 🎬 Final Thoughts
+## 🎬 Final Thoughts 123 Thoughts
 
 C is hard. It requires discipline and deep thinking. But mastery of C is the fastest path to embedded systems expertise.
 
